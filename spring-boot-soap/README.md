@@ -4,7 +4,7 @@ This is an example project to demonstrate how to connect to SOAP web services fr
 
 It calls a basic SOAP service which converts numbers to words, exposing this function through a REST controller.
 
-All the content and instructions are on my blog [https://leiva.io](https://leiva.io).
+All the content and instructions are on 
 
 ### Build & run
 
